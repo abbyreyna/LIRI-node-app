@@ -1,0 +1,24 @@
+{
+  "name": "LIRI-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbyreyna/LIRI-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbyreyna/LIRI-node-app/issues"
+  },
+  "homepage": "https://github.com/abbyreyna/LIRI-node-app#readme"
+}
