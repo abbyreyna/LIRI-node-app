@@ -1,9 +1,9 @@
 # LIRI-node-app
 
-###Overview
+### Overview
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
-###About
+### About
 LIRI searches Spotify for songs, Bands in Town for concerts and OMDB for movies.
 LIRI uses the axios package for the Bands in Town, Spotify and OMDB APIs.
 
